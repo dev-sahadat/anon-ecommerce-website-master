@@ -14,7 +14,7 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](#) must be installed on your operating system.
 
 ## Installing Anon
 
@@ -23,18 +23,18 @@ To install **Anon**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+sudo git clone https://github.com/dev-sahadat/anon-ecommerce-website-master.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/dev-sahadat/anon-ecommerce-website-master.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/).
 
 ## License
 
